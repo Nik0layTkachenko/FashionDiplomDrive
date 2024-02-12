@@ -4,11 +4,12 @@
 бакалавра ([ВСП «ППФК НТУ «ХПІ»](http://polytechnic.poltava.ua)). Керівник
 роботи – **Нестерук Олександа Георгіївна**.
 
-## Завдання до дипломної роботи
+## Всі файли, що використовувалися для створення інтернет-магазину:
+[full](https://drive.google.com/drive/folders/1Ea16jdKkjiB_BlpBTptV1i19c1bLJzTM?usp=sharing)
 
 
 ## Використані технології
-
+*WordPress
   
 ## Опублікований продукт
 Програмний продукт можна знайти за посиланням [fashion-drive.com.ua](https://fashion-drive.com.ua/)
