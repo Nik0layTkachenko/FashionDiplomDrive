@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Ukr Shipping\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Новая почта"
+msgstr "Новая почта"
+
+msgid "Новая почта (наложенный платеж)"
+msgstr "Новая почта (наложенный платеж)"
+
+msgid "Укажите отделение доставки"
+msgstr "Укажите отделение доставки"
+
+msgid "Выберите область"
+msgstr "Выберите область"
+
+msgid "Выберите город"
+msgstr "Выберите город"
+
+msgid "Выберите отделение"
+msgstr "Выберите отделение"
+
+msgid "Нужна адресная доставка"
+msgstr "Нужна адресная доставка"
+
+msgid "Введите адрес"
+msgstr "Введите адрес"
+
+msgid "Ничего не найдено"
+msgstr "Ничего не найдено"
+
+msgid "Укажите отделение <strong>Новой Почты</strong>"
+msgstr "Укажите отделение <strong>Новой Почты</strong>"
+
+msgid "Населенный пункт"
+msgstr "Населенный пункт"
+
+msgid "Начните вводить слово или часть слова"
+msgstr "Начните вводить слово или часть слова"
+
+msgid "Улица"
+msgstr "Улица"
+
+msgid "Номер дома"
+msgstr "Номер дома"
+
+msgid "Номер квартиры"
+msgstr "Номер квартиры"
+
+msgid "checkout_error_settlement"
+msgstr "Выберите населенный пункт"
+
+msgid "checkout_error_street"
+msgstr "Выберите улицу"
+
+msgid "checkout_error_house"
+msgstr "Укажите номер дома"
+
+msgid "page_logs_title"
+msgstr "Журнал"
+
+msgid "page_logs_menu_title"
+msgstr "Журнал"
+
+msgid "page_logs_heading"
+msgstr "Журнал"
+
+msgid "page_logs_th_created_at"
+msgstr "Дата создания"
+
+msgid "page_logs_th_level"
+msgstr "Уровень"
+
+msgid "page_logs_th_message"
+msgstr "Текст"
+
+msgid "page_logs_th_source"
+msgstr "Источник"
+
+msgid "page_logs_empty_results"
+msgstr "Ничего не найдено."
+
+msgid "edit_order_invalid_shipping_method"
+msgstr "Для заказа не указан метод доставки Новая Почта."
+
+msgid "options_page_title"
+msgstr "Настройки - WC Ukr Shipping"
+
+msgid "ttn_list_page_title"
+msgstr "Список экспресс-накладных"
+
+msgid "page_ttn_list_menu_title"
+msgstr "Список ЭН"
+
+# Top panel
+msgid "top_panel_site"
+msgstr "Наш сайт"
+
+msgid "top_panel_docs"
+msgstr "Документация"
+
+#~ msgid "ttn_form_label_service_type"
+#~ msgstr "Технология доставки"
+
+#~ msgid "Отчество"
+#~ msgstr "Отчество"

@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Ukr Shipping\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Новая почта"
+msgstr "Nova poshta"
+
+msgid "Новая почта (наложенный платеж)"
+msgstr "Nova Poshta (c.o.d)"
+
+msgid "Укажите отделение доставки"
+msgstr "Enter delivery office"
+
+msgid "Выберите область"
+msgstr "Select state"
+
+msgid "Выберите город"
+msgstr "Select city"
+
+msgid "Выберите отделение"
+msgstr "Select warehouse"
+
+msgid "Нужна адресная доставка"
+msgstr "Need address delivery"
+
+msgid "Введите адрес"
+msgstr "Enter address"
+
+msgid "Ничего не найдено"
+msgstr "No results found"
+
+msgid "Укажите отделение <strong>Новой Почты</strong>"
+msgstr "Enter <strong>Nova Poshta</strong> warehouse"
+
+msgid "Населенный пункт"
+msgstr "Locality"
+
+msgid "Начните вводить слово или часть слова"
+msgstr "Start typing a word or part of a word"
+
+msgid "Улица"
+msgstr "Street"
+
+msgid "Номер дома"
+msgstr "House number"
+
+msgid "Номер квартиры"
+msgstr "Flat number"
+
+msgid "checkout_error_settlement"
+msgstr "Select a settlement"
+
+msgid "checkout_error_street"
+msgstr "Choose a street"
+
+msgid "checkout_error_house"
+msgstr "Enter house number"
+
+msgid "page_logs_title"
+msgstr "Logs"
+
+msgid "page_logs_menu_title"
+msgstr "Logs"
+
+msgid "page_logs_heading"
+msgstr "Logs"
+
+msgid "page_logs_th_created_at"
+msgstr "Created at"
+
+msgid "page_logs_th_level"
+msgstr "Level"
+
+msgid "page_logs_th_message"
+msgstr "Text"
+
+msgid "page_logs_th_source"
+msgstr "Source"
+
+msgid "page_logs_empty_results"
+msgstr "No results found."
+
+msgid "edit_order_invalid_shipping_method"
+msgstr "Shipping method Nova Poshta is not specified for the order."
+
+msgid "options_page_title"
+msgstr "Settings - WC Ukr Shipping"
+
+msgid "ttn_list_page_title"
+msgstr "My documents"
+
+msgid "page_ttn_list_menu_title"
+msgstr "My documents"
+
+# Top panel
+msgid "top_panel_site"
+msgstr "Our site"
+
+msgid "top_panel_docs"
+msgstr "Documentation"
+
+#~ msgid "Отчество"
+#~ msgstr "Middle name"

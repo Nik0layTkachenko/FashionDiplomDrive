@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Ukr Shipping\n"
+"POT-Creation-Date: 2023-08-28 14:52+0000\n"
+"PO-Revision-Date: 2023-08-28 14:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: Українська\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.4; wp-6.3"
+
+msgid "Новая почта"
+msgstr "Нова пошта"
+
+msgid "Новая почта (наложенный платеж)"
+msgstr "Нова Пошта (післяплата)"
+
+msgid "Укажите отделение доставки"
+msgstr "Вкажіть відділення доставки"
+
+msgid "Выберите область"
+msgstr "Оберіть область"
+
+msgid "Выберите город"
+msgstr "Оберіть місто"
+
+msgid "Выберите отделение"
+msgstr "Оберіть відділення"
+
+msgid "Нужна адресная доставка"
+msgstr "Потрібна адресна доставка"
+
+msgid "Введите адрес"
+msgstr "Введіть адресу"
+
+msgid "Ничего не найдено"
+msgstr "Нічого не здайдено"
+
+msgid "Укажите отделение <strong>Новой Почты</strong>"
+msgstr "Вкажіть відділення <strong>Нової Пошти</strong>"
+
+msgid "Населенный пункт"
+msgstr "Населений пункт"
+
+msgid "Начните вводить слово или часть слова"
+msgstr "Почніть вводити слово або частину слова"
+
+msgid "Улица"
+msgstr "Вулиця"
+
+msgid "Номер дома"
+msgstr "Номер будинку"
+
+msgid "Номер квартиры"
+msgstr "Номер квартири"
+
+msgid "checkout_error_settlement"
+msgstr "Оберіть населений пункт"
+
+msgid "checkout_error_street"
+msgstr "Оберіть вулицю"
+
+msgid "checkout_error_house"
+msgstr "Вкажіть номер будинку"
+
+msgid "page_logs_title"
+msgstr "Журнал"
+
+msgid "page_logs_menu_title"
+msgstr "Журнал"
+
+msgid "page_logs_heading"
+msgstr "Журнал"
+
+msgid "page_logs_th_created_at"
+msgstr "Дата створення"
+
+msgid "page_logs_th_level"
+msgstr "Рівень"
+
+msgid "page_logs_th_message"
+msgstr "Текст"
+
+msgid "page_logs_th_source"
+msgstr "Джерело"
+
+msgid "page_logs_empty_results"
+msgstr "Нічого не знайдено."
+
+msgid "edit_order_invalid_shipping_method"
+msgstr "Для замовлення не вказаний метод доставки Нова Пошта."
+
+msgid "options_page_title"
+msgstr "Налаштування - WC Ukr Shipping"
+
+msgid "ttn_list_page_title"
+msgstr "Список експрес-накладних"
+
+msgid "page_ttn_list_menu_title"
+msgstr "Список ЕН"
+
+# Top panel
+msgid "top_panel_site"
+msgstr "Наш сайт"
+
+msgid "top_panel_docs"
+msgstr "Документація"

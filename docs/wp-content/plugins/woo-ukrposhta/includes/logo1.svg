@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 60.5625 76.900002"
+   height="76.900002"
+   width="60.5625"
+   xml:space="preserve"
+   version="1.1"
+   id="svg2"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path20"
+         d="m 0,0 2404.52,0 0,615 L 0,615 0,0 Z" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,76.9)"
+     id="g10"><g
+       transform="scale(0.1,0.1)"
+       id="g12"><g
+         id="g14"><g
+           clip-path="url(#clipPath18)"
+           id="g16"><path
+             id="path22"
+             style="fill:#fabc26;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 404.246,262.023 c -0.019,0.004 -203.683,46.094 -203.683,46.094 -60.715,13.738 -98.79,74.09 -85.055,134.801 13.734,60.711 74.086,98.789 134.801,85.051 60.707,-13.735 98.789,-74.086 85.046,-134.797 -6.875,-30.395 -25.449,-55.094 -49.886,-70.481 0,0 -0.063,-0.046 -0.09,-0.062 -0.715,-0.516 -1.184,-1.356 -1.184,-2.301 0,-1.324 0.918,-2.437 2.149,-2.734 0,0 90.609,-20.492 90.625,-20.492 2.152,-0.489 4.386,0.343 5.715,2.093 0.011,0.016 0,0.004 0,0.004 24.968,33.028 39.957,74.239 39.957,118.817 0,104.972 -82.016,190.754 -185.457,196.855 -0.918,0.043 -6.532,0.262 -8.426,0.293 C 182.965,615.879 136.527,602.746 96.1367,574.465 -5.83594,503.059 -30.6211,362.508 40.7852,260.531 L 221.992,1.73828 C 222.758,0.683594 224.004,0 225.41,0 c 1.41,0 2.66,0.695313 3.426,1.75391 0,0 177.941,253.76609 177.961,253.78909 0.453,0.676 0.719,1.488 0.719,2.363 0,2.008 -1.399,3.688 -3.27,4.117" /><path
+              /><path
+              /></g></g></g></g></svg>

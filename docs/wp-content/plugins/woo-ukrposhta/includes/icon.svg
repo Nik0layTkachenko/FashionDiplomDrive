@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="13.977972mm"
+   height="20.346056mm"
+   viewBox="0 0 13.977972 20.346056"
+   version="1.1"
+   id="svg4616"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Ukrposhta-ua-icon.svg">
+  <defs
+     id="defs4610" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-87.142872"
+     inkscape:cy="559.99906"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4613">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.8830048e-6,-276.65369)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 13.369594,288.33412 c -5.29e-4,-1.3e-4 -6.736523,-1.52446 -6.736523,-1.52446 -2.0077575,-0.45436 -3.2672403,-2.45037 -2.8130169,-4.45826 0.454488,-2.00789 2.4505047,-3.26711 4.4582622,-2.81289 2.0078897,0.45439 3.2672407,2.45038 2.8129837,4.45813 -0.227608,1.00525 -0.841672,1.82212 -1.6501399,2.33101 -1.323e-4,0 -0.00209,0.002 -0.00284,0.002 -0.023778,0.0171 -0.039158,0.0448 -0.039158,0.0761 0,0.0438 0.030229,0.0806 0.071074,0.0904 1.323e-4,1.3e-4 2.9965719,0.67773 2.9971009,0.67773 0.07131,0.0162 0.145322,-0.0113 0.189144,-0.0692 2.32e-4,-5.3e-4 1.32e-4,-1.3e-4 1.32e-4,-1.3e-4 0.8255,-1.09234 1.321363,-2.4553 1.321363,-3.9295 0,-3.47173 -2.712376,-6.30892 -6.1336045,-6.51043 -0.030498,-0.002 -0.2159049,-0.009 -0.278545,-0.01 -1.5147727,-0.0238 -3.0506128,0.41055 -4.3861765,1.34588 -3.37279053,2.36161 -4.1922501,7.01004 -1.8308934,10.38272 l 5.993034,8.55903 c 0.025598,0.0349 0.066807,0.0575 0.1130432,0.0575 0.046633,0 0.087974,-0.023 0.1134401,-0.0581 0,0 5.8850281,-8.39266 5.8855571,-8.39342 0.01498,-0.0222 0.02391,-0.0492 0.02391,-0.0781 0,-0.0664 -0.04614,-0.12197 -0.108148,-0.13616"
+       style="fill:#fabc26;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03307291"
+       id="path14" />
+  </g>
+</svg>

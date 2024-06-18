@@ -1,0 +1,245 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("//arizonamods.testovy.biz/wp-content/themes/woodmart/fonts/woodmart-font-1-300.woff2?v=7.1.4") format("woff2");
+}
+
+.wd-popup.wd-promo-popup{
+	background-color:rgb(255,255,255);
+	background-image: none;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+
+.header-banner{
+	background-color:rgb(241,246,242);
+	background-image: none;
+}
+
+.page-title-default{
+	background-color:rgb(0,0,0);
+	background-image: none;
+	background-size:cover;
+	background-position:center center;
+}
+
+.footer-container{
+	background-color:rgb(251,251,251);
+	background-image: none;
+}
+
+:root{
+--wd-text-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-text-font-weight:400;
+--wd-text-color:#777777;
+--wd-text-font-size:16px;
+}
+:root{
+--wd-title-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-title-font-weight:500;
+--wd-title-color:#242424;
+}
+:root{
+--wd-entities-title-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-entities-title-font-weight:500;
+--wd-entities-title-color:#333333;
+--wd-entities-title-color-hover:rgb(51 51 51 / 65%);
+}
+:root{
+--wd-alternative-font:"Lato", Arial, Helvetica, sans-serif;
+}
+:root{
+--wd-widget-title-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-widget-title-font-weight:500;
+--wd-widget-title-transform:uppercase;
+--wd-widget-title-color:#333;
+--wd-widget-title-font-size:16px;
+}
+:root{
+--wd-header-el-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-header-el-font-weight:500;
+--wd-header-el-transform:capitalize;
+--wd-header-el-font-size:15px;
+}
+:root{
+--wd-primary-color:rgb(51,51,51);
+}
+:root{
+--wd-alternative-color:rgb(27,100,168);
+}
+:root{
+--wd-link-color:#333333;
+--wd-link-color-hover:#242424;
+}
+:root{
+--btn-default-bgcolor:#f7f7f7;
+}
+:root{
+--btn-default-bgcolor-hover:#efefef;
+}
+:root{
+--btn-accented-bgcolor:rgb(51,51,51);
+}
+:root{
+--btn-accented-bgcolor-hover:rgb(0,0,0);
+}
+:root{
+--notices-success-bg:#459647;
+}
+:root{
+--notices-success-color:#fff;
+}
+:root{
+--notices-warning-bg:#E0B252;
+}
+:root{
+--notices-warning-color:#fff;
+}
+	:root{
+					
+			
+							--wd-form-brd-radius: 0px;
+					
+					--wd-form-brd-width: 1px;
+		
+					--btn-default-color: #333;
+		
+					--btn-default-color-hover: #333;
+		
+					--btn-accented-color: #fff;
+		
+					--btn-accented-color-hover: #fff;
+		
+									--btn-default-brd-radius: 0px;
+				--btn-default-box-shadow: none;
+				--btn-default-box-shadow-hover: none;
+				--btn-default-box-shadow-active: none;
+				--btn-default-bottom: 0px;
+			
+			
+			
+					
+					
+							--btn-accented-bottom-active: -1px;
+				--btn-accented-brd-radius: 0px;
+				--btn-accented-box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .15);
+				--btn-accented-box-shadow-hover: inset 0 -2px 0 rgba(0, 0, 0, .15);
+			
+			
+					
+							
+					--wd-brd-radius: 0px;
+			}
+
+	
+	
+			@media (min-width: 1025px) {
+			.whb-boxed:not(.whb-sticked):not(.whb-full-width) .whb-main-header {
+				max-width: 1370px;
+			}
+		}
+
+		.container {
+			max-width: 1400px;
+		}
+
+		:root{
+			--wd-container-width: 1400px;
+		}
+	
+			.elementor-section.wd-section-stretch > .elementor-column-gap-no {
+			max-width: 1370px;
+		}
+		.elementor-section.wd-section-stretch > .elementor-column-gap-narrow {
+			max-width: 1380px;
+		}
+		.elementor-section.wd-section-stretch > .elementor-column-gap-default {
+			max-width: 1390px;
+		}
+		.elementor-section.wd-section-stretch > .elementor-column-gap-extended {
+			max-width: 1400px;
+		}
+		.elementor-section.wd-section-stretch > .elementor-column-gap-wide {
+			max-width: 1410px;
+		}
+		.elementor-section.wd-section-stretch > .elementor-column-gap-wider {
+			max-width: 1430px;
+		}
+		@media (min-width: 1417px) {
+			.platform-Windows .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+		@media (min-width: 1400px) {
+			html:not(.platform-Windows) .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+	
+			div.wd-popup.popup-quick-view {
+			max-width: 920px;
+		}
+	
+	
+	
+			:root {
+			--wd-header-banner-h: 40px;
+		}
+		@media (max-width: 1024px) {
+			:root {
+				--wd-header-banner-h: 60px;
+			}
+		}
+	
+			.woodmart-woocommerce-layered-nav .wd-scroll-content {
+			max-height: 223px;
+		}
+	
+					rs-slides [data-type=text],
+		rs-slides [data-type=button] {
+			font-family: hkgroteskpro !important;
+		}
+		
+					rs-slides h1[data-type=text],
+			rs-slides h2[data-type=text],
+			rs-slides h3[data-type=text],
+			rs-slides h4[data-type=text],
+			rs-slides h5[data-type=text],
+			rs-slides h6[data-type=text] {
+				font-family: hkgroteskpro !important;
+			}
+			
+@font-face {
+	font-family: "hkgroteskpro";
+	src: url("//arizonamods.testovy.biz/wp-content/uploads/2021/10/HKGroteskPro-Light.woff2") format("woff2"), 
+url("//arizonamods.testovy.biz/wp-content/uploads/2021/10/HKGroteskPro-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "hkgroteskpro";
+	src: url("//arizonamods.testovy.biz/wp-content/uploads/2021/09/hkgroteskpro-regular.woff2") format("woff2"), 
+url("//arizonamods.testovy.biz/wp-content/uploads/2021/09/hkgroteskpro-regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "hkgroteskpro";
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "hkgroteskpro";
+	src: url("//arizonamods.testovy.biz/wp-content/uploads/2021/09/hkgroteskpro-bold.woff2") format("woff2"), 
+url("//arizonamods.testovy.biz/wp-content/uploads/2021/09/hkgroteskpro-bold.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+}
+

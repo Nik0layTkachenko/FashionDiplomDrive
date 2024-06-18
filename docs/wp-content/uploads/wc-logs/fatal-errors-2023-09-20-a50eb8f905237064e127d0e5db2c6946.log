@@ -1,0 +1,44 @@
+2023-09-20T11:22:16+00:00 CRITICAL Uncaught Error: Call to a member function add() on null in /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php:951
+Stack trace:
+#0 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1240): WC_Checkout->validate_checkout(NULL, NULL)
+#1 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Checkout->process_checkout()
+#2 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(310): WC_AJAX::checkout('')
+#3 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#4 /home/fashio0/fashion-drive.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_checkou...')
+#6 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(310): WC_AJAX::do_wc_ajax('')
+#7 /hom у /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php доступно 951
+
+2023-09-20T11:22:44+00:00 CRITICAL Uncaught Error: Call to a member function add() on null in /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php:951
+Stack trace:
+#0 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1240): WC_Checkout->validate_checkout(NULL, NULL)
+#1 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Checkout->process_checkout()
+#2 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(310): WC_AJAX::checkout('')
+#3 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#4 /home/fashio0/fashion-drive.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_checkou...')
+#6 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(310): WC_AJAX::do_wc_ajax('')
+#7 /hom у /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php доступно 951
+
+2023-09-20T11:23:17+00:00 CRITICAL Uncaught Error: Call to a member function add() on null in /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php:951
+Stack trace:
+#0 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1240): WC_Checkout->validate_checkout(NULL, NULL)
+#1 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Checkout->process_checkout()
+#2 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(310): WC_AJAX::checkout('')
+#3 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#4 /home/fashio0/fashion-drive.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_checkou...')
+#6 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(310): WC_AJAX::do_wc_ajax('')
+#7 /hom у /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php доступно 951
+
+2023-09-20T11:23:31+00:00 CRITICAL Uncaught Error: Call to a member function add() on null in /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php:951
+Stack trace:
+#0 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1240): WC_Checkout->validate_checkout(NULL, NULL)
+#1 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Checkout->process_checkout()
+#2 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(310): WC_AJAX::checkout('')
+#3 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#4 /home/fashio0/fashion-drive.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_checkou...')
+#6 /home/fashio0/fashion-drive.com.ua/www/wp-includes/class-wp-hook.php(310): WC_AJAX::do_wc_ajax('')
+#7 /hom у /home/fashio0/fashion-drive.com.ua/www/wp-content/plugins/woocommerce/includes/class-wc-checkout.php доступно 951
+

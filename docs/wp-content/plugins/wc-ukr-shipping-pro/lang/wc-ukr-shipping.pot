@@ -1,0 +1,96 @@
+msgid "Новая почта"
+msgstr ""
+
+msgid "Новая почта (наложенный платеж)"
+msgstr ""
+
+msgid "Укажите отделение доставки"
+msgstr ""
+
+msgid "Выберите область"
+msgstr ""
+
+msgid "Выберите город"
+msgstr ""
+
+msgid "Выберите отделение"
+msgstr ""
+
+msgid "Нужна адресная доставка"
+msgstr ""
+
+msgid "Введите адрес"
+msgstr ""
+
+msgid "Ничего не найдено"
+msgstr ""
+
+msgid "Укажите отделение <strong>Новой Почты</strong>"
+msgstr ""
+
+msgid "Населенный пункт"
+msgstr ""
+
+msgid "Начните вводить слово или часть слова"
+msgstr ""
+
+msgid "Улица"
+msgstr ""
+
+msgid "Номер дома"
+msgstr ""
+
+msgid "Номер квартиры"
+msgstr ""
+
+msgid "checkout_error_settlement"
+msgstr ""
+
+msgid "checkout_error_street"
+msgstr ""
+
+msgid "checkout_error_house"
+msgstr ""
+
+msgid "page_logs_title"
+msgstr ""
+
+msgid "page_logs_menu_title"
+msgstr ""
+
+msgid "page_logs_heading"
+msgstr ""
+
+msgid "page_logs_th_created_at"
+msgstr ""
+
+msgid "page_logs_th_level"
+msgstr ""
+
+msgid "page_logs_th_message"
+msgstr ""
+
+msgid "page_logs_th_source"
+msgstr ""
+
+msgid "page_logs_empty_results"
+msgstr ""
+
+msgid "edit_order_invalid_shipping_method"
+msgstr ""
+
+msgid "options_page_title"
+msgstr ""
+
+msgid "ttn_list_page_title"
+msgstr ""
+
+msgid "page_ttn_list_menu_title"
+msgstr ""
+
+# Top panel
+msgid "top_panel_site"
+msgstr ""
+
+msgid "top_panel_docs"
+msgstr ""

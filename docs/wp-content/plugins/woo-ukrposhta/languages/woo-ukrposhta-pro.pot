@@ -1,0 +1,31 @@
+# Copyright (C) 2020 Morkva
+# This file is distributed under the same license as the Ukrposhta Pro plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ukrposhta Pro 1.4.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-ukrposhta-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-08T20:32:18+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: woo-ukrposhta-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Ukrposhta Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://morkva.co.ua/plugins/wc-ukrposhta/?ref=repository"
+msgstr ""
+
+#. Description of the plugin
+msgid "Плагін доставки та генерації накладних Укрпоштою"
+msgstr ""
+
+#. Author of the plugin
+msgid "Morkva"
+msgstr ""

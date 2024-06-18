@@ -1,0 +1,227 @@
+# Translation of Plugins - Cyr-To-Lat - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Cyr-To-Lat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-12 08:29:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Cyr-To-Lat - Stable (latest release)\n"
+
+#: src/php/Settings/Tables.php:48
+msgid "Tables"
+msgstr "Таблиці"
+
+#: src/php/Settings/Converter.php:97
+msgid "Post Statuses"
+msgstr "Статуси записів"
+
+#: src/php/Settings/Converter.php:79
+msgid "Post types included in the conversion."
+msgstr "Типи записів, що включаються в конвертацію."
+
+#: src/php/Settings/Converter.php:75
+msgid "Post Types"
+msgstr "Типи записів"
+
+#: src/php/Settings/Converter.php:40
+msgid "Converter"
+msgstr "Перетворювач"
+
+#: src/php/Settings/Converter.php:101
+msgid "Post statuses included in the conversion."
+msgstr "Статуси запису включені в перетворення."
+
+#: src/php/Settings/Converter.php:252
+msgid "Upon conversion of attachments, please regenerate thumbnails."
+msgstr "Після конвертації вкладень, будь ласка, повторно створіть мініатюри."
+
+#: src/php/Settings/Converter.php:243
+msgid ""
+"Also, you have to make a copy of your media files if the attachment post type is selected for\n"
+"\t\t\t\tconversion."
+msgstr ""
+"Крім того, ви повинні зробити копію ваших медіафайлів, якщо вибрано тип запису вкладення\n"
+"конвертація."
+
+#: src/php/Settings/Converter.php:262
+msgid "OK"
+msgstr "OK"
+
+#: src/php/Settings/Converter.php:265
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: src/php/Settings/Converter.php:233
+msgid "Important:"
+msgstr "Важливо:"
+
+#: src/php/Settings/Converter.php:258
+msgid "Are you sure to continue?"
+msgstr "Ви впевнені, що хочете продовжити?"
+
+#: src/php/Settings/Tables.php:212
+msgid "Options saved."
+msgstr "Налаштування збережено."
+
+#: src/php/Settings/Converter.php:235
+msgid "This operation is irreversible. Please make sure that you have made a backup copy of your database."
+msgstr "Ця операція необоротна. Будь ласка, переконайтеся, що ви зробили резервну копію вашої бази даних."
+
+#: src/php/BackgroundProcesses/PostConversionProcess.php:130
+msgid "Cannot rename thumbnail file:"
+msgstr "Не вдається перейменувати файл мініатюр:"
+
+#: src/php/BackgroundProcesses/PostConversionProcess.php:109
+msgid "Cannot convert attachment file for attachment id:"
+msgstr "Не вдається перетворити файл вкладення для ідентифікатора вкладення:"
+
+#: src/php/BackgroundProcesses/PostConversionProcess.php:103
+msgid "Attachment file converted:"
+msgstr "Перетворений файл вкладення:"
+
+#: src/php/BackgroundProcesses/PostConversionProcess.php:127
+msgid "Thumbnail file renamed:"
+msgstr "Файл мініатюри перейменовано:"
+
+#: src/php/Settings/Tables.php:122
+msgid "(current)"
+msgstr "(поточна)"
+
+#: src/php/Requirements.php:234
+msgid "Please increase max input vars limit up to 1500."
+msgstr "Будь ласка, збільште ліміт max input vars до 1500."
+
+#: src/php/Requirements.php:237
+msgid "See: <a href=\"https://sevenspark.com/docs/ubermenu-3/faqs/menu-item-limit\" target=\"_blank\">Increasing max input vars limit.</a>"
+msgstr "Див.: <a href=\"https://sevenspark.com/docs/ubermenu-3/faqs/menu-item-limit\" target=\"_blank\">Збільшення максимального ліміту змінних введення.</a>"
+
+#. translators: 1: .user.ini filename
+#: src/php/Requirements.php:166
+msgid "We have updated settings in %s."
+msgstr "Ми оновили налаштування в %s."
+
+#. translators: 1: max_input_vars value, 2: Cyr To Lat version, 3: Minimum
+#. required max_input_vars
+#: src/php/Requirements.php:162
+msgid "Your server is running PHP with max_input_vars=%1$d but Cyr To Lat %2$s requires at least %3$d."
+msgstr "На вашому сервері працює PHP з max_input_vars = %1$d, але Cyr To Lat %2$s вимагає принаймні %3$d."
+
+#: src/php/Requirements.php:145
+msgid "Unable to get filesystem access."
+msgstr "Неможливо отримати доступ до файлової системи."
+
+#. translators: 1: Wait time in seconds
+#: src/php/Requirements.php:169
+msgid "Please try again in %d s."
+msgstr "Будь ласка, спробуйте знову через %d сек."
+
+#: src/php/Requirements.php:109
+msgid "Cyr To Lat plugin has been deactivated."
+msgstr "Плагін деактивовано."
+
+#: libs/wp-background-processing/wp-background-process.php:577
+msgid "Every %d Minutes"
+msgstr "Кожні %d хвилин"
+
+#. translators: 1: Current PHP version number, 2: Cyr To Lat version, 3:
+#. Minimum required PHP version number
+#: src/php/Requirements.php:124
+msgid "Your server is running PHP version %1$s but Cyr To Lat %2$s requires at least %3$s."
+msgstr "На вашому сервері встановлена версія PHP %1$s, але Cyr To Lat %2$s вимагає принаймні %3$s."
+
+#: src/php/BackgroundProcesses/PostConversionProcess.php:74
+msgid "Post slug converted:"
+msgstr "Посилання запису конвертовано:"
+
+#: src/php/BackgroundProcesses/PostConversionProcess.php:201
+msgid "Post slugs conversion completed."
+msgstr "Конвертація посилань записів завершена."
+
+#: src/php/Converter.php:238
+msgid "Cyr To Lat started conversion of existing post slugs."
+msgstr "Cyr To Lat почав конвертацію існуючих посилань записів."
+
+#: src/php/Converter.php:273
+msgid "Term slugs conversion started."
+msgstr "Розпочато конвертацію посилань термінів."
+
+#: src/php/Converter.php:275
+msgid "Cyr To Lat started conversion of existing term slugs."
+msgstr "Cyr To Lat почав конвертацію існуючих посилань термінів."
+
+#: src/php/Converter.php:262
+msgid "Cyr To Lat has not found existing term slugs for conversion."
+msgstr "Cyr To Lat не знайшов існуючих посилань термінів для конвертації."
+
+#: src/php/Converter.php:236
+msgid "Post slugs conversion started."
+msgstr "Розпочато конвертація посилань записів."
+
+#: src/php/BackgroundProcesses/TermConversionProcess.php:89
+msgid "Term slugs conversion completed."
+msgstr "Конвертація посилань термінів завершена."
+
+#: src/php/BackgroundProcesses/TermConversionProcess.php:75
+msgid "Term slug converted:"
+msgstr "Посилання терміну конвертовано:"
+
+#: src/php/Converter.php:134
+msgid "Cyr To Lat completed conversion of existing term slugs."
+msgstr "Cyr To Lat завершив конвертацію існуючих посилань термінів."
+
+#: src/php/Converter.php:127
+msgid "Cyr To Lat completed conversion of existing post slugs."
+msgstr "Cyr To Lat завершив конвертацію існуючих посилань записів."
+
+#: src/php/Converter.php:120
+msgid "Cyr To Lat converts existing term slugs in the background process."
+msgstr "Cyr To Lat конвертує існуючі посилання термінів у фоновому процесі."
+
+#: src/php/Converter.php:113
+msgid "Cyr To Lat converts existing post slugs in the background process."
+msgstr "Cyr To Lat конвертує існуючі посилання записів у фоновому процесі."
+
+#: src/php/Converter.php:225
+msgid "Cyr To Lat has not found existing post slugs for conversion."
+msgstr "Cyr To Lat не знайшов існуючих посилань записів для конвертації."
+
+#: src/php/Settings/PluginSettingsBase.php:37
+#: src/php/Settings/PluginSettingsBase.php:158
+msgid "Cyr To Lat"
+msgstr "Cyr To Lat"
+
+#: src/php/Settings/PluginSettingsBase.php:118
+msgid "Settings"
+msgstr "Налаштування"
+
+#: src/php/Settings/PluginSettingsBase.php:109
+msgid "View Cyr To Lat settings"
+msgstr "Подивитися налаштування Cyr To Lat"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/sergeybiryukov/"
+msgstr "https://profiles.wordpress.org/sergeybiryukov/"
+
+#. Author of the plugin
+msgid "Sergey Biryukov, Mikhail Kobzarev, Igor Gergel"
+msgstr "Сергій Бірюков, Михайло Кобзаров, Ігор Гергель"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/cyr2lat/"
+msgstr "https://uk.wordpress.org/plugins/cyr2lat/"
+
+#. Plugin Name of the plugin
+msgid "Cyr-To-Lat"
+msgstr "Cyr-To-Lat"
+
+#: src/php/Settings/Converter.php:171
+msgid "Convert Existing Slugs"
+msgstr "Конвертувати існуючі посилання"
+
+#. Description of the plugin
+msgid "Convert Non-Latin characters in post and term slugs to Latin characters. Useful for creating human-readable URLs. Based on the original plugin by Anton Skorobogatov."
+msgstr "Перетворює не-латинські символи в посиланнях записів, сторінок і категорій в латинські. Корисно для створення людинозрозумілих URL. Засновано на оригінальному плагіні від Антона Скоробогатова."
